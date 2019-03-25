@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 87d91047a74afbb47ad168bcd9e54870
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TT Commons
+  fontNames:
+  - TT Commons
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1971d222cb1e65646aa48e1d8f53f129, type: 3}
+  - {fileID: 12800000, guid: 488a93525f3747642ae61c83433aba91, type: 3}
+  - {fileID: 12800000, guid: 5e6edcb3d438744dda7fa3062e2eb875, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

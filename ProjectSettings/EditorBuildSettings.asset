@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ARPitch/Scenes/Intro.unity
+    guid: 9b7034c1391715d4fa4982ad45766afe
+  - enabled: 0
+    path: Assets/ARPitch/Scenes/Main.unity
+    guid: 98fecce4163307d4f912a8ba90b43981
+  - enabled: 0
+    path: Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityAREnvironmentTexture/UnityAREnvironmentProbeAnchor.unity
+    guid: 90e8d78f99ddb4db1b5a7148d5d063b9
+  - enabled: 0
+    path: Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityAREnvironmentTexture/UnityAREnvironmentProbeAnchorManual.unity
+    guid: 5f542d5b0c973449d94b4c654c3587b8
+  - enabled: 0
+    path: Assets/ARPitch/Scenes/CH.unity
+    guid: cdeb83d354508453bbad8e1cdb9b261a
+  - enabled: 0
+    path: Assets/ARPitch/Scenes/Paco Rabanne.unity
+    guid: a1a765b5aeecd4513b4292cfda9c167d
+  - enabled: 1
+    path: Assets/ARPitch/Scenes/KitKat.unity
+    guid: d527c38e1b73d4060baa24c9852b7e52
+  m_configObjects: {}
